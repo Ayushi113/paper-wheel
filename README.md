@@ -18,3 +18,4 @@ To visualize your own readings, you could summarize your authors in 5 points.
 Then, tag each point with any issue. Like [Methodologies], [Results].. etc. You could then see a nice visualization, of 3 authors at a time. 
 
 We are working on taking text files as input, so you don't have to meddle with the code in the future. But as of now, feel free to replace our authors with yours. 
+
